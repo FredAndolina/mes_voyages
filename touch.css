@@ -1,0 +1,59 @@
+/* .con{
+    display: grid;
+    grid-template-columns: 100px 200px 120px;
+    grid-template-rows: 30px 40px;
+    background-color: aqua;
+} */
+h1{
+    font-size: 100px;
+    color: red;
+}
+
+/* .logo{
+    width: 100px;
+    height: auto;
+    grid-column-start: 1;
+    grid-row: 1;
+} */
+/* .logo:hover{
+    opacity: 0,5;
+}
+
+ul li{
+    text-decoration: none;
+}
+#image:hover{
+    opacity: 1;
+} */
+#image{
+    opacity: 1;
+}
+.NY{
+    position: relative;
+    text-align: center;
+}
+ figure{
+     display: flex;
+     flex-flow: column;
+     width: 252px;
+     opacity: 0.5;
+ }
+ figure:hover{
+    display: flex;
+    flex-flow: column;
+    width: 252px;
+    opacity: 1;
+}
+figcaption{
+    background-color: rgb(49, 11, 49);
+    color: white;
+    font: italic;
+    text-align: center;
+    padding: 20px 0;
+    width: 252px;
+    opacity: 0.5;
+}
+
+.I1{
+    width: 252px;
+ }
